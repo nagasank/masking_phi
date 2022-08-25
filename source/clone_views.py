@@ -33,6 +33,7 @@ views_list = [ "DEMO_DB.RAW.VW_BP_SUMMARY_ORDERS_CLAIMS_STATUSES",
 
 #TODO:  Go get the column names from the viewlist
 #TODO:  construct_sql
+#TODO:  Naga needs to sleep
 
 '''
 
